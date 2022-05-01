@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/lothal" mode="merge"/>
+    <filter root="/content/lothal" mode="merge"/>
+    <filter root="/content/dam/lothal/asset.jpg" mode="merge"/>
+    <filter root="/content/experience-fragments/lothal" mode="merge"/>
+    <filter root="/content/dam/formsanddocuments-themes/lothal" mode="merge"/>
+    <filter root="/content/dam/formsanddocuments-fdm/lothal" mode="merge"/>
+    <filter root="/content/dam/lothal/sample_logo.png" mode="merge"/>
+    <filter root="/content/dam/lothal/sample_terms.png" mode="merge"/>
+</workspaceFilter>
