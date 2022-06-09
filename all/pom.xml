@@ -78,6 +78,16 @@
                             <target>/apps/lothal-packages/application/install</target>
                         </embedded>
                         <embedded>
+                            <groupId>com.adobe.aem</groupId>
+                            <artifactId>spa.project.core.core</artifactId>
+                            <target>/apps/lothal-vendor-packages/application/install</target>
+                        </embedded>
+                        <embedded>
+                            <groupId>com.adobe.aem</groupId>
+                            <artifactId>spa.project.core.ui.apps</artifactId>
+                            <target>/apps/lothal-vendor-packages/application/install</target>
+                        </embedded>
+                        <embedded>
                             <groupId>com.adobe.commerce.cif</groupId>
                             <artifactId>core-cif-components-apps</artifactId>
                             <type>zip</type>
@@ -230,6 +240,17 @@
             <type>zip</type>
         </dependency>
 
+        <!-- SPA Project Core (includes hierarchy page) -->
+        <dependency>
+            <groupId>com.adobe.aem</groupId>
+            <artifactId>spa.project.core.ui.apps</artifactId>
+            <type>zip</type>
+        </dependency>
+        <dependency>
+            <groupId>com.adobe.aem</groupId>
+            <artifactId>spa.project.core.core</artifactId>
+        </dependency>
+        
         <!-- Adobe CIF Dependencies -->
         <dependency>
             <groupId>com.adobe.commerce.cif</groupId>
