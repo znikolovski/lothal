@@ -7,6 +7,9 @@
     "GET",
     "HEAD",
     "POST",
+    "PUT",
+    "DELETE",
+    "PATCH",
     "OPTIONS"
   ],
   "alloworigin":[
@@ -27,21 +30,14 @@
     "https://main--securbank-www--markszulc.hlx.page",
     "https://main--securbank-www--markszulc.hlx.live",
     "https://main--summit-demo--markszulc.hlx.page",
-    "https://main--summit-demo--markszulc.hlx.live"
+    "https://main--summit-demo--markszulc.hlx.live",
+    "https://.*\\.adobe\\.com",
+    "https://.*\\.adobe\\.net"
   ],
   "allowedpaths":[
     ".*"
   ],
   "supportedheaders":[
-    "Origin",
-    "Accept",
-    "X-Requested-With",
-    "Content-Type",
-    "content-type",
-    "Access-Control-Request-Method",
-    "Access-Control-Request-Headers",
-    "Access-Control-Request-Origin",
-    "Access-Control-Allow-Origin",
-    "Authorization"
+    "*"
   ]
 }
