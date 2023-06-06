@@ -121,10 +121,6 @@ Import-Package: javax.annotation;version=0.0.0,*
             <groupId>com.adobe.aem</groupId>
             <artifactId>core-forms-components-core</artifactId>
         </dependency>
-        <dependency>
-          <groupId>com.adobe.aem</groupId>
-          <artifactId>core-forms-components-af-core</artifactId>
-        </dependency>
         <!-- Testing -->
         <dependency>
             <groupId>org.junit.jupiter</groupId>
