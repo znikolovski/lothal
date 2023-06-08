@@ -127,6 +127,13 @@
             <type>zip</type>
         </dependency>
 
+        <dependency>
+            <groupId>com.adobe.demo</groupId>
+            <artifactId>lothal.ui.frontend.react.forms.af</artifactId>
+            <version>${project.version}</version>
+            <type>zip</type>
+        </dependency>
+
         <!-- SPA Project Core (includes hierarchy page) -->
         <dependency>
             <groupId>com.adobe.aem</groupId>
