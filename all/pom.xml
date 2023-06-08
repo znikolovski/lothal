@@ -109,17 +109,6 @@
                             <artifactId>magento-graphql</artifactId>
                             <target>/apps/lothal-vendor-packages/application/install</target>
                         </embedded>
-                        <embedded>
-                            <groupId>com.adobe.aem</groupId>
-                            <artifactId>core-forms-components-apps</artifactId>
-                            <type>zip</type>
-                            <target>/apps/lothal-vendor-packages/application/install</target>
-                        </embedded>
-                        <embedded>
-                            <groupId>com.adobe.aem</groupId>
-                            <artifactId>core-forms-components-core</artifactId>
-                            <target>/apps/lothal-vendor-packages/application/install</target>
-                        </embedded>
                          <embedded>
                             <groupId>com.adobe.aem</groupId>
                             <artifactId>core-forms-components-af-apps</artifactId>
