@@ -18,6 +18,7 @@
   "maxage:Integer":1800,
   "alloworiginregexp":[
     "http://localhost:.*",
+    "https://localhost:.*",
     "https://node.au.ngrok.io",
     "https://experience.adobe.com",
     "https://securbank-react.vercel.app",
