@@ -19,20 +19,14 @@
   "alloworiginregexp":[
     "http://localhost:.*",
     "https://localhost:.*",
-    "https://node.au.ngrok.io",
     "https://experience.adobe.com",
     "https://securbank-react.vercel.app",
     "https://20092-cfpreview-stage.adobeio-static.net",
     "https://20092-cfpreview.adobeio-static.net",
-    "https://main--cfpreview--markszulc.hlx.page",
-    "https://main--cfpreview--markszulc.hlx.live",
-    "https://main--securbank-news--markszulc.hlx.page",
-    "https://main--securbank-news--markszulc.hlx.live",
     "https://main--securbank-www--markszulc.hlx.page",
     "https://main--securbank-www--markszulc.hlx.live",
     "https://www.securbankdemo.com",
-    "https://main--summit-demo--markszulc.hlx.page",
-    "https://main--summit-demo--markszulc.hlx.live",
+    "https://publish-p55117-e571178.adobeaemcloud.com"
     "https://.*\\.adobe\\.com",
     "https://.*\\.adobe\\.net"
   ],
