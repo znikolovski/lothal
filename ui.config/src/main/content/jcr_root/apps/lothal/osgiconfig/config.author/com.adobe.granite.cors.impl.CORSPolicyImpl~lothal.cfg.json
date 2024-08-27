@@ -20,6 +20,7 @@
     "http://localhost:.*",
     "https://localhost:.*",
     "https://experience.adobe.com",
+    "https://experience-stage.adobe.com",
     "https://securbank-react.vercel.app",
     "https://20092-cfpreview-stage.adobeio-static.net",
     "https://20092-cfpreview.adobeio-static.net",
