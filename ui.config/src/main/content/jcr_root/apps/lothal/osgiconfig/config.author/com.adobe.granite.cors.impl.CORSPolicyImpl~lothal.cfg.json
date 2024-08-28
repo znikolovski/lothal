@@ -29,23 +29,12 @@
     "https://main--securbank-aem-ue--markszulc.hlx.page",
     "https://main--securbank-aem-ue--markszulc.hlx.live",
     "https://www.securbankdemo.com",
-    "https://publish-p55117-e571178.adobeaemcloud.com",
-    "https://.*\\.adobe\\.com",
-    "https://.*\\.adobe\\.net"
+    "https://publish-p55117-e571178.adobeaemcloud.com"
   ],
   "allowedpaths":[
     ".*"
   ],
   "supportedheaders":[
-    "Origin",
-    "Accept",
-    "X-Requested-With",
-    "Content-Type",
-    "content-type",
-    "Access-Control-Request-Method",
-    "Access-Control-Request-Headers",
-    "Access-Control-Request-Origin",
-    "Access-Control-Allow-Origin",
-    "Authorization"
+    "*"
   ]
 }
